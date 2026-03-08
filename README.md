@@ -1,1 +1,0 @@
-# climateguard-ai

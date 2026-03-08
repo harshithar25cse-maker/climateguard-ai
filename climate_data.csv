@@ -1,0 +1,9 @@
+temperature,humidity,wind,pollution,risk
+30,60,10,120,Low
+35,50,8,150,Medium
+40,45,6,200,High
+33,55,9,140,Medium
+38,48,7,180,High
+29,65,11,100,Low
+36,52,7,160,Medium
+41,44,5,210,High
